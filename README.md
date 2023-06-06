@@ -2,7 +2,7 @@
 O Dapper é uma biblioteca leve e simples para a realização de operações CRUD (Create, Read, Update, Delete) em bancos de dados usando o Dapper, um popular micro-ORM (Object-Relational Mapping) para o .NET. Ele fornece uma abstração conveniente e eficiente para interagir com o banco de dados, permitindo que você escreva consultas SQL de forma mais legível e produtiva.
 
 ## Recursos Principais
-O DapperCrud possui os seguintes recursos principais:
+### O Dapper possui os seguintes recursos principais:
 
 Operações CRUD: O Crud oferece métodos para criar, ler, atualizar e excluir registros de uma tabela do banco de dados de maneira simples e direta. Você pode realizar todas as operações básicas de persistência de dados usando uma interface simples e intuitiva.
 
